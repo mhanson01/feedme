@@ -1,0 +1,20 @@
+{
+    "name": "mhanson01/feedme",
+    "description": "RSS 2.0 Parser",
+    "require": {
+        "illuminate/support": "~4.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Feedme\\": "src"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mark Hanson",
+            "email": "mhanson01@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
