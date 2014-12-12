@@ -1,6 +1,6 @@
 {
     "name": "mhanson01/feedme",
-    "description": "RSS 2.0 Parser",
+    "description": "RSS and Atom Parser",
     "require": {
         "illuminate/support": "~4.2"
     },
